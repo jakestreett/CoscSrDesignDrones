@@ -1,3 +1,6 @@
+Group: Drones and Beer
+
+=========================================
 Project Boiler Plate for UWyo COSC 4950/5
 =========================================
 
